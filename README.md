@@ -65,7 +65,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=barbosaz1&theme=tokyonight&no-frame=true&row=1&margin-w=10" />
 </p>
 
 ---
