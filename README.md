@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════
-     BARBOSA — Brand Guidelines · Edition 2026
+     BARBOSA - Brand Guidelines · Edition 2026
      A profile README designed like an identity manual.
      ═══════════════════════════════════════════════════════════ -->
 
@@ -18,21 +18,21 @@
 <table align="center">
 <tr>
 <td align="center"><sub><b>00</b><br>Index</sub></td>
-<td align="center"><sub><a href="#01--manifesto"><b>01</b><br>Manifesto</a></sub></td>
-<td align="center"><sub><a href="#02--specimen"><b>02</b><br>Specimen</a></sub></td>
-<td align="center"><sub><a href="#03--palette"><b>03</b><br>Palette</a></sub></td>
-<td align="center"><sub><a href="#04--components"><b>04</b><br>Components</a></sub></td>
-<td align="center"><sub><a href="#05--selected-works"><b>05</b><br>Works</a></sub></td>
-<td align="center"><sub><a href="#06--metrics"><b>06</b><br>Metrics</a></sub></td>
-<td align="center"><sub><a href="#07--contact"><b>07</b><br>Contact</a></sub></td>
+<td align="center"><sub><a href="#01---manifesto"><b>01</b><br>Manifesto</a></sub></td>
+<td align="center"><sub><a href="#02---specimen"><b>02</b><br>Specimen</a></sub></td>
+<td align="center"><sub><a href="#03---palette"><b>03</b><br>Palette</a></sub></td>
+<td align="center"><sub><a href="#04---components"><b>04</b><br>Components</a></sub></td>
+<td align="center"><sub><a href="#05---selected-works"><b>05</b><br>Works</a></sub></td>
+<td align="center"><sub><a href="#06---metrics"><b>06</b><br>Metrics</a></sub></td>
+<td align="center"><sub><a href="#07---contact"><b>07</b><br>Contact</a></sub></td>
 </tr>
 </table>
 
 <br>
 
-## 01 ── Manifesto
+## 01 - Manifesto
 
-> *Every interface is a promise. The code keeps it — the design makes people believe it.*
+> *Every interface is a promise. The code keeps it - the design makes people believe it.*
 
 ```diff
 - code that only works
@@ -42,14 +42,14 @@
 + design as the first line of the user's experience
 
 - "it's done"
-+ "it's done — for now"   // always improving, always building
++ "it's done - for now"   // always improving, always building
 ```
 
 <br>
 
-## 02 ── Specimen
+## 02 - Specimen
 
-<sub>How this developer is built — read it like a class definition.</sub>
+<sub>How this developer is built - read it like a class definition.</sub>
 
 ```java
 public class Barbosa extends Engineer implements Designer, Builder {
@@ -76,9 +76,9 @@ public class Barbosa extends Engineer implements Designer, Builder {
 
 <br>
 
-## 03 ── Palette
+## 03 - Palette
 
-<sub>Every identity needs a colour system. This is mine — and what each colour stands for.</sub>
+<sub>Every identity needs a colour system. This is mine - and what each colour stands for.</sub>
 
 <table>
 <tr>
@@ -89,12 +89,12 @@ public class Barbosa extends Engineer implements Designer, Builder {
 <tr>
 <td><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20-1F6F4A?style=for-the-badge" /></td>
 <td><b>Moss</b><br><code>#1F6F4A</code></td>
-<td>The roots — Java, Spring, SQL. The backend nobody sees but everything stands on.</td>
+<td>The roots - Java, Spring, SQL. The backend nobody sees but everything stands on.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20-3DDC97?style=for-the-badge" /></td>
 <td><b>Leaf</b> 🍃<br><code>#3DDC97</code></td>
-<td>Growth. The frontend — Next.js, React — the part that reaches for the light.</td>
+<td>Growth. The frontend - Next.js, React - the part that reaches for the light.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20-F2EFE9?style=for-the-badge" /></td>
@@ -110,9 +110,9 @@ public class Barbosa extends Engineer implements Designer, Builder {
 
 <br>
 
-## 04 ── Components
+## 04 - Components
 
-<sub>The toolkit, sorted by layer — like a design system's component library.</sub>
+<sub>The toolkit, sorted by layer - like a design system's component library.</sub>
 
 <table>
 <tr>
@@ -142,7 +142,7 @@ public class Barbosa extends Engineer implements Designer, Builder {
 </table>
 
 <details>
-<summary><b>▸ Legend — where I stand with each tool</b></summary>
+<summary><b>▸ Legend - where I stand with each tool</b></summary>
 <br>
 
 | Status | Stack |
@@ -155,7 +155,7 @@ public class Barbosa extends Engineer implements Designer, Builder {
 
 <br>
 
-## 05 ── Selected Works
+## 05 - Selected Works
 
 <sub>A small exhibition. Click a card to enter the room.</sub>
 
@@ -188,7 +188,7 @@ public class Barbosa extends Engineer implements Designer, Builder {
 
 <br>
 
-## 06 ── Metrics
+## 06 - Metrics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=barbosaz1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3DDC97&text_color=F2EFE9&icon_color=3DDC97&rank_icon=github" />
@@ -201,7 +201,7 @@ public class Barbosa extends Engineer implements Designer, Builder {
 
 <br>
 
-## 07 ── Contact
+## 07 - Contact
 
 <sub>Open to collaborations, internships, and good conversations about fonts.</sub>
 
