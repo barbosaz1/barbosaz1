@@ -212,7 +212,7 @@ public class Barbosa extends Engineer implements Designer, Builder {
   <a href="mailto:rb6544758@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5E5B" />
   </a>
-  <a href="https://github.com/barbosaz1/portfolio">
+  <a href="https://0xbarbosa.dev">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=F2EFE9" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=barbosaz1&style=for-the-badge&color=1F6F4A&label=VISITORS" />
