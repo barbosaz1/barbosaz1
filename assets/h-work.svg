@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 112" width="900" height="112" role="img" aria-label="03 · Selected work - Things I built to learn by breaking.">
+<title>03 · Selected work - Things I built to learn by breaking.</title>
+<defs>
+  <linearGradient id="bgx03" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#10211C"/><stop offset="1" stop-color="#0A1613"/>
+  </linearGradient>
+  <linearGradient id="hlx03" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="clipx03"><rect x="6" y="6" width="888" height="100" rx="26"/></clipPath>
+  <filter id="blurx03" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+</defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  .mono{font-family:'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(-28px,14px)}}
+  @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(24px,-18px)}}
+  @keyframes pulse{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:0;transform:scale(2.4)}}
+  @keyframes fill{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes marquee{from{transform:translateX(0)}to{transform:translateX(var(--shift))}}
+  @keyframes sheen{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1300px)}}
+  .rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+  .drift{animation:drift 14s ease-in-out infinite}
+  .drift2{animation:drift2 18s ease-in-out infinite}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+  .fill{transform-box:fill-box;transform-origin:left;animation:fill 1.4s cubic-bezier(.2,.7,.2,1) both}
+  .sheen{animation:sheen 7s ease-in-out infinite}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+<rect x="6" y="6" width="888" height="100" rx="26" fill="url(#bgx03)"/>
+<g clip-path="url(#clipx03)"><circle class="drift" cx="860" cy="20" r="120" fill="#3DDC97" opacity="0.22" filter="url(#blurx03)"/><text x="40" y="46" class="mono" font-size="11.5" font-weight="600" letter-spacing="1.6" fill="#3DDC97">03<tspan fill="#5E736A">  -  </tspan><tspan fill="#93A89F">SELECTED WORK</tspan></text><text x="38" y="82" class="sans" font-size="24" font-weight="650" letter-spacing="-.6" fill="#F2F5F1">Things I built to learn by breaking.</text><text x="860" y="82" text-anchor="end" class="sans" font-size="13.5" fill="#93A89F">click a card to open the repo  ↗</text>
+</g>
+<rect x="6.5" y="6.5" width="887" height="99" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect x="32" y="6" width="836" height="1" fill="url(#hlx03)"/>
+</svg>

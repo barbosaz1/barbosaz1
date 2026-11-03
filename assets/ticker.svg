@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64" role="img" aria-label="Stack: Java · Next.js · TypeScript · Rust · Python · Spring Boot · MySQL · React · Hibernate · Maven · Assembly · R · Git · Linux · Figma">
+<title>Stack: Java · Next.js · TypeScript · Rust · Python · Spring Boot · MySQL · React · Hibernate · Maven · Assembly · R · Git · Linux · Figma</title>
+<defs>
+  <linearGradient id="bgt" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#10211C"/><stop offset="1" stop-color="#0A1613"/>
+  </linearGradient>
+  <linearGradient id="hlt" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="clipt"><rect x="6" y="6" width="888" height="52" rx="26"/></clipPath>
+  <filter id="blurt" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="46"/></filter>
+  <linearGradient id="edgeFade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#000"/><stop offset=".08" stop-color="#fff"/><stop offset=".92" stop-color="#fff"/><stop offset="1" stop-color="#000"/>
+  </linearGradient>
+  <mask id="tm"><rect width="900" height="64" fill="url(#edgeFade)"/></mask>
+</defs>
+<style>
+  .sans{font-family:-apple-system,BlinkMacSystemFont,'SF Pro Display','Inter','Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  .mono{font-family:'SF Mono','JetBrains Mono',ui-monospace,Menlo,Consolas,monospace}
+  @keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+  @keyframes drift{0%,100%{transform:translate(0,0)}50%{transform:translate(-28px,14px)}}
+  @keyframes drift2{0%,100%{transform:translate(0,0)}50%{transform:translate(24px,-18px)}}
+  @keyframes pulse{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:0;transform:scale(2.4)}}
+  @keyframes fill{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  @keyframes marquee{from{transform:translateX(0)}to{transform:translateX(var(--shift))}}
+  @keyframes sheen{0%{transform:translateX(-400px)}60%,100%{transform:translateX(1300px)}}
+  .rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+  .drift{animation:drift 14s ease-in-out infinite}
+  .drift2{animation:drift2 18s ease-in-out infinite}
+  .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-out infinite}
+  .fill{transform-box:fill-box;transform-origin:left;animation:fill 1.4s cubic-bezier(.2,.7,.2,1) both}
+  .sheen{animation:sheen 7s ease-in-out infinite}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+
+<rect x="6" y="6" width="888" height="52" rx="26" fill="url(#bgt)"/>
+<g clip-path="url(#clipt)"><g mask="url(#tm)"><g style="--shift:-1192.7px;animation:marquee 32s linear infinite"><g transform="translate(30 0)"><text x="0.0" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Java</text><circle cx="49.4" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="65.4" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Next.js</text><circle cx="129.6" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="145.6" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">TypeScript</text><circle cx="237.0" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="253.0" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Rust</text><circle cx="301.5" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="317.5" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Python</text><circle cx="382.8" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="398.8" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Spring Boot</text><circle cx="497.5" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="513.5" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">MySQL</text><circle cx="582.1" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="598.1" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">React</text><circle cx="655.3" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="671.3" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Hibernate</text><circle cx="755.8" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="771.8" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Maven</text><circle cx="835.2" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="851.2" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Assembly</text><circle cx="935.6" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="951.6" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">R</text><circle cx="978.9" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="994.9" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Git</text><circle cx="1031.1" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="1047.1" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Linux</text><circle cx="1100.9" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="1116.9" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Figma</text><circle cx="1176.7" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/></g><g transform="translate(1222.7 0)"><text x="0.0" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Java</text><circle cx="49.4" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="65.4" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Next.js</text><circle cx="129.6" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="145.6" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">TypeScript</text><circle cx="237.0" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="253.0" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Rust</text><circle cx="301.5" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="317.5" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Python</text><circle cx="382.8" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="398.8" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Spring Boot</text><circle cx="497.5" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="513.5" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">MySQL</text><circle cx="582.1" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="598.1" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">React</text><circle cx="655.3" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="671.3" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Hibernate</text><circle cx="755.8" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="771.8" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Maven</text><circle cx="835.2" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="851.2" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Assembly</text><circle cx="935.6" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="951.6" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">R</text><circle cx="978.9" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="994.9" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Git</text><circle cx="1031.1" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="1047.1" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Linux</text><circle cx="1100.9" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/><text x="1116.9" y="38.5" class="sans" font-size="15" font-weight="500" fill="#F2F5F1" fill-opacity=".86">Figma</text><circle cx="1176.7" cy="33" r="2.5" fill="#3DDC97" opacity=".8"/></g></g></g>
+</g>
+<rect x="6.5" y="6.5" width="887" height="51" rx="25.5" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+<rect x="32" y="6" width="836" height="1" fill="url(#hlt)"/>
+</svg>
